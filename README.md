@@ -1,2 +1,0 @@
-# SimpleSudoku
-Created with CodeSandbox
